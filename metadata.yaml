@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20521#The-New-York-Times-Current-History-A-Monthly-Magazine--13-The-European-War-March-1915
 gutenberg_bookshelf: Current History
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
